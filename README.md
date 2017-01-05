@@ -1,3 +1,3 @@
-﻿# Calculadora
+# Calculadora
 Calculadora básica en java
-Os dejo el archivo .jar para poder ejecutarla.
+Os dejo el archivo .war para poder ejecutarla.
